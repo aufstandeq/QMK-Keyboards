@@ -10,3 +10,7 @@ Case https://www.1upkeyboards.com/shop/keyboard-kits/1up-60-lce-skeleton-kit/
 
 Key Caps
 https://www.1upkeyboards.com/shop/keycaps/maxkey-dolch-keycap-set/
+
+## Choosing the Correct PCB keyboard
+
+## Choosing the correct keys
