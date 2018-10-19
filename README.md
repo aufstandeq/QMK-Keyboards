@@ -1,5 +1,5 @@
-# QMK-Keyboards
-Notes and Links for building and programming the mechanical keyboard
+# QMK-Mechanical Keyboards
 
-# Links to Hardware and How To
-I purchased my parts from [1UP Keyboards](https://www.1upkeyboards.com/) during the 2018 NYC Comic-Con event.
+I had the opportunity to work on building a new mechanical keyboard. I've been looking for one for quite some time. The feeling is better than any keyboard you will use today.
+
+I came across a company 1UP Keyboards at the NY Comic-Con 2018 and decided to purchase the components needed to construct a
